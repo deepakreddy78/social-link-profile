@@ -1,0 +1,79 @@
+
+.bg-container{
+    background-color: hsl(0, 0%, 8%);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-container{
+    background-color: hsl(0, 0%, 12%);
+    width: 25%;
+    height: 80%;
+    text-align: center;
+    border-radius: 12px;
+
+}
+.jessica-img{
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 10%;
+}
+.name{
+   color: white;
+   margin: 0%;
+   margin-bottom: 10px;
+}
+.place{
+  font-size: 15px;
+  margin: 0%;
+  color: rgba(154, 219, 89, 0.948);
+  margin-bottom: 10px;
+}
+.info{
+   margin: 0%;
+   color:white;
+}
+.social-media{
+    background-color:  hsl(0, 0%, 20%);
+    font-weight: 500;
+    padding: 4px;
+    padding-top:8px ;
+
+    width: 80%;
+    color: white;
+    height: 30px;
+    text-align: center;
+    border-radius: 12px;
+    justify-content: center;
+    align-items: center;
+}
+.social-media{
+   margin-left: auto;
+   margin-right: auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
